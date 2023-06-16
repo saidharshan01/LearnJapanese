@@ -1,12 +1,14 @@
 # LearnJapanese
 Some of the resources to lean japanese and it's all free of cost
 
-# Genki 1st edition
+## Genki 1st edition
 https://archive.org/details/Genki/Genki%20-%20Elementary%20Japanese%20II/
 
-# Minna nno nihongo (Minna No Nihongo I Trans)
-Recomended 1 lesson daily
+## Minna nno nihongo (Minna No Nihongo I Trans)
+```
+Recomended 1 lesson daily 
+```
 https://archive.org/details/MinnaNoNihongoITrans/mode/2up
 
-# Listening practice
+## Listening practice
 https://flrc-old.pomona.edu/audio/Japanese/1b/japn1b.html
