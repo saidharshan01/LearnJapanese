@@ -1,4 +1,4 @@
-# LearnJapanese
+# Learn Japanese with sai.
 Some of the resources to learn Japanese and it's all free of cost
 
 ## Genki 1st edition
