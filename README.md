@@ -1,5 +1,8 @@
 # Learn Japanese with sai.
-Some of the resources to learn Japanese and it's all free of cost
+Some of the resources to learn Japanese and it's all free of cost.
+
+## Blogs
+https://learnjapanesewithsai.blogspot.com/
 
 ## Genki 1st edition
 https://archive.org/details/Genki/Genki%20-%20Elementary%20Japanese%20II/
